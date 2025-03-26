@@ -7,7 +7,7 @@ This project presents a comprehensive **Tableau dashboard** that visualizes and 
 ## 🌐 Project Access
 
 📄 Planning Document (Mural): [LINK](https://app.mural.co/t/ift533projectgroup139235/m/ift533projectgroup139235/1731445252262/1fcf456867882fdef2a0ba00b60c8182abec13af)  
-📊 Final Dashboard PDF: [LINK](https://yourdriveorrepo.com/Phase3_Implementation.pdf)  
+📊 Final Dashboard PDF: [LINK](https://github.com/shreyasah99/Dashboard-Shopping-Trends-and-Customer-Behavior/blob/main/Phase%203_Dashboard%20Implementation.pdf)  
 📈 Tableau Workbook (TWBX): [LINK](https://public.tableau.com/app/profile/shreyas.anil.hingmire/viz/ShoppingTrendsandCustomerBehavior/FinalStory)
 
 > *Tip: Open these links in a new tab (Ctrl/Cmd + Click) to keep this page accessible.*
